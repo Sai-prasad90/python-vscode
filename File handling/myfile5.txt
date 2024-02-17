@@ -1,0 +1,4 @@
+I am learning something
+I am learning nothing
+I am learning web dev
+I am learning testing
