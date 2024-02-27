@@ -36,3 +36,16 @@ print(x6)
 x7 = re.findall(r'\An[\w]*',str7)
 print(x7)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
