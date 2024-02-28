@@ -1,13 +1,10 @@
-
-
-
 names = ["sai","manish","spruha","sai"]
 names2 = names
 names2[0] = "shreya"
 print(names)
 print(names2)
 
-# # append()
+  # append()
 names.append("chetan")
 print(names)
 
